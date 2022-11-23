@@ -1,11 +1,11 @@
-// html {
-// 	box-sizing: border-box;
-// }
-// *,
-// *::after,
-// *::before {
-// 	box-sizing: inherit;
-// }
+html {
+	box-sizing: border-box;
+}
+*,
+*::after,
+*::before {
+	box-sizing: inherit;
+}
 
 // ul[class],
 // ol[class] {
@@ -46,10 +46,10 @@
 // select {
 // 	font: inherit;
 // }
-// a {
-// 	text-decoration: none;
-// 	color: inherit;
-// }
+a {
+	text-decoration: none;
+	color: inherit;
+}
 html,
 body,
 div,
